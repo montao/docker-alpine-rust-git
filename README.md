@@ -1,3 +1,3 @@
-Rust for Alpine with git installed
+Rust for Alpine with cargo, git installed
 
 Built from Alpine edge which has support.
